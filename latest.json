@@ -1,0 +1,11 @@
+{
+  "version": "0.0.4",
+  "notes": "Initial release",
+  "pub_date": "2025-01-01T01:07:35.000Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmdJckRMTVdTNjNUaC91RHZLMnZIcEZ2RS9YaGc0aDN4R2pCQkpSdE95MUR1bjZSUzQ1ODVJOVJLRUVtZmE5RHYwNTc1TzB5Yi9sczZoUnBPSWo1anNkNkFXS1pqUGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1NjkzNjM2CWZpbGU6bHlueC5hcHAudGFyLmd6CllISExBb3orcUI5Z0hkNC9HYmREbnZEZzRxdGgwNUhQTEw1Q3R3aTVXSFQvZTFURE9vbmQ1Ujh5TnBxKzFTUVZjVkpyT0xZK0ZXVWFYWDI4SFlGV0FRPT0K",
+      "url": "https://github.com/Lynx-Eco/lynx-beta/releases/download/v0.0.4/lynx.app.tar.gz"
+    }
+  }
+}
