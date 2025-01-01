@@ -1,11 +1,11 @@
 {
-  "version": "0.0.7",
+  "version": "0.0.8",
   "notes": "Initial release",
-  "pub_date": "2025-01-01T01:56:41.000Z",
+  "pub_date": "2025-01-01T02:19:26.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmdJckRMTVdTNjV3V1dpZjNaK3FnUGhxekVyaGhFK2gvWk5iN01xU0J5YlpqNDNrRHNnaGFwQzlRVUJaK0ZsV2IyUStzSWk0MFpFQVlxd1RjYTRSU2ZUdnJRL0p0RVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1Njk2NTU0CWZpbGU6bHlueC5hcHAudGFyLmd6CjNDdWYvdnJPSDROcFpYYzYzcWluUXg2NnVCMkhJekF2cXBiak8xRmRsaFI3RWpRd0xaOGFsR25aQU45ZFBxdEt2bXRtYlVOY0ZVenZXRVcyaW9sRENRPT0K",
-      "url": "https://github.com/Lynx-Eco/lynx-beta/releases/download/v0.0.7/lynx.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScmdJckRMTVdTNndXQmtPaXVXS1M2NzdVVTJraldLejJ2VDhnSVJZV0VRbGw1UTFvRnNQa2FBdzRwTmFaUUljNW9ZeGtHdS9oM2N3RVUvR1p3bCtuNldyd1hwNmFzSVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1Njk3OTU1CWZpbGU6bHlueC5hcHAudGFyLmd6ClM2ZXpDSlRFbzBqZlRPQjZQSGtGKzRneS9WMS9kOGxZUWk4U2Z5anZzbVorMVVNdzR2S0sxTUZQTWdpUzlGblNMU0o4N2xQWXBIZmFhVjVYYkM0eUFRPT0K",
+      "url": "https://github.com/Lynx-Eco/lynx-beta/releases/download/v0.0.8/lynx.app.tar.gz"
     }
   }
 }
